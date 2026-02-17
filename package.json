@@ -1,0 +1,10 @@
+{
+  "name": "bms-owner-portal-marketing-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketing homepage for the BMS Owner Portal SaaS platform.",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
+
